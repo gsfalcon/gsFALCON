@@ -15,26 +15,7 @@ and build small tools for my own media pipeline - video conversion, renaming, an
 
 ---
 
-### Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" />
-  <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plex-EBAF00?style=for-the-badge&logo=plex&logoColor=white" />
-</p>
-
----
-
-### GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gsFALCON&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsFALCON&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+### GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=gsFALCON&theme=tokyonight&hide_border=true" />
@@ -45,9 +26,3 @@ and build small tools for my own media pipeline - video conversion, renaming, an
 </p>
 
 ---
-
-<div align="center">
-
-[Blog](https://gsfalcon.github.io)
-
-</div>
