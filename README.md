@@ -1,1 +1,1 @@
-<p align="center">[![GitHub Streak](https://streak-stats.demolab.com?user=gsFALCON&theme=date-night&hide_border=true&border_radius=2&locale=pt_BR&timezone=-3&date_format=j%20M%5B%20Y%5D&card_width=850&card_height=200&background=212830)](https://git.io/streak-stats)</p>
+<div align="center">[![GitHub Streak](https://streak-stats.demolab.com?user=gsFALCON&theme=date-night&hide_border=true&border_radius=2&locale=pt_BR&timezone=-3&date_format=j%20M%5B%20Y%5D&card_width=850&card_height=200&background=212830)](https://git.io/streak-stats)</div>
