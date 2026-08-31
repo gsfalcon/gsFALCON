@@ -1,7 +1,1 @@
-<p align="justify">
-  <img src="https://streak-stats.demolab.com?user=gsFALCON&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gsFALCON/gsFALCON/output/github-contribution-grid-snake-dark.svg" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=gsFALCON&theme=gruvbox&hide_border=true&border_radius=2&locale=pt_BR&timezone=-3&date_format=j%20M%5B%20Y%5D&card_width=600)](https://git.io/streak-stats)
