@@ -1,6 +1,4 @@
-I write about tech, self-hosting and automation on my **[personal blog](https://gsfalcon.github.io)**. And build small tools for my own media pipeline - video conversion, renaming, and Plex library management - usually as single-file Python CLIs.
-
-<p align="center">
+<p align="justify">
   <img src="https://streak-stats.demolab.com?user=gsFALCON&theme=tokyonight&hide_border=true" />
 </p>
 
