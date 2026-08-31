@@ -10,14 +10,8 @@
 
 ### About me
 
-I run **[gsFALCON](https://gsfalcon.blogspot.com)** - a PlayStation blog (written in Brazilian Portuguese) covering platinum trophy guides and PlayStation news - and I write about tech, self-hosting and automation on my **[personal blog](https://gsfalcon.github.io)** (Hugo + PaperMod, hosted on GitHub Pages).
-
-Off the blog, I build small tools for my own media pipeline - video conversion, renaming, and Plex library management - usually as single-file Python CLIs.
-
-- Platinum hunter - trophy guides and PlayStation coverage in PT-BR
-- Building personal automation tools for media (Plex, local video libraries)
-- Daily driver: Windows + PowerShell, with Zorin OS (Linux) in the mix
-- Two blogs, one brand: gsFALCON
+I write about tech, self-hosting and automation on my **[personal blog](https://gsfalcon.github.io)**.
+and build small tools for my own media pipeline - video conversion, renaming, and Plex library management - usually as single-file Python CLIs.
 
 ---
 
@@ -54,6 +48,6 @@ Off the blog, I build small tools for my own media pipeline - video conversion, 
 
 <div align="center">
 
-[gsFALCON Blog](https://gsfalcon.blogspot.com) &nbsp;-&nbsp; [Tech Blog](https://gsfalcon.github.io)
+[Blog](https://gsfalcon.github.io)
 
 </div>
